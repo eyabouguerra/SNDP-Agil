@@ -1,0 +1,14 @@
+.nav_custom{
+  background-color: black;
+}
+a{
+  color: white;
+}
+
+a:hover{
+  color: gray;
+}
+
+a:active{
+  color: white
+}

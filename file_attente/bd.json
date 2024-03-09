@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "ourabisaif48@gmail.com",
+      "password": "$2a$10$2nl3/4bMz3ZP24lkP5Onvum1G6nshqxs/.OekY5ow2GHXXW5px/Ui",
+      "name": "saif ",
+      "firstName": "ourabi",
+      "phoneNumber": "29046529",
+      "gender": "m",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "kkk@gamil.com",
+      "password": "$2a$10$gsPjky89MuHmbTxta35UGO0Y0dVG.HX/wSHNl4z9YEJo/sGSzO6xC",
+      "name": "saif",
+      "firstName": "Natale",
+      "phoneNumber": "29046529",
+      "gender": "f",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "email": "cyndynyabondo@gmail.com",
+      "password": "$2a$10$4Ka6K/Tx/QrfuNe3i2tYd.ODV381qBfoai6i1GHFptNZxxog22AbK",
+      "name": "saif ",
+      "firstName": "Natale",
+      "phoneNumber": "29046529",
+      "gender": "d",
+      "role": "user",
+      "id": 3
+    }
+  ]
+}
